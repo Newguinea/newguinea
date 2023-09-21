@@ -5,8 +5,9 @@
 - 👀 I’m interested in Front End Development, Destop Application Development and Front End Data Visualization.
 - 🌱 I’m currently learning GIS, Javascript, React, flask
 - 💞️ I’m looking to collaborate on font-end and back-end
-- 📫 Reach me @instagram @khanhamburger
-- 📫 Reach me @linkedin @www.linkedin.com/in/andrew-zhu-149
+- 📫 Reach me @linkedin @www.linkedin.com/in/andrew-zhu-a2350a279
+- 📫 Reach me @instagram @[khanhamburger](https://www.instagram.com/khanhamburger/)
+
 <!---
 Newguinea/Newguinea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
