@@ -5,7 +5,7 @@
 - 👀 I’m interested in Front End Development, Destop Application Development and Front End Data Visualization.
 - 🌱 I’m currently learning GIS, Javascript, React, flask
 - 💞️ I’m looking to collaborate on font-end and back-end
-- 📫 Reach me @linkedin @[Andrew Zhu](www.linkedin.com/in/andrew-zhu-a2350a279)
+- 📫 Reach me @linkedin @[Andrew Zhu](https://www.linkedin.com/in/andrew-zhu-a2350a279)
 - 📫 Reach me @instagram @[khanhamburger](https://www.instagram.com/khanhamburger/)
 
 <!---
