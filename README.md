@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&logoWidth=30)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white&logoWidth=30)
 
-### data analyse
+### 📊 Data Analyse
 
 ![tableau](https://img.shields.io/badge/Tableau-E97627?&logo=Tableau&logoColor=white&logoWidth=30)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&logoWidth=30)
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?logo=neo4j&logoColor=white&logoWidth=30)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&logoWidth=30)
 
-### others skill
+### 🛠 Other Skills
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&logoWidth=30)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white&logoWidth=30)
