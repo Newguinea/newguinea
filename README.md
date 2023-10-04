@@ -38,9 +38,15 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠 Other Skills
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&logoWidth=30)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white&logoWidth=30)
+![qgis](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&logo=qgis&logoColor=white&logoWidth=30)
 ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&logoWidth=30)
+![figma](https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white&logoWidth=30)
+![trello](https://img.shields.io/badge/Trello-0052CC?&logo=trello&logoColor=white&logoWidth=30)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white&logoWidth=30)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black&logoWidth=30)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white&logoWidth=30)
+
+<!--
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&logoWidth=30)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white&logoWidth=30)
+-->
