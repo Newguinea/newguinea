@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&logoWidth=30)
 ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&logoWidth=30)
+![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&logoWidth=30)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&logoWidth=30)
