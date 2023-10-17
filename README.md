@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&logoWidth=30)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&logoWidth=30)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white&logoWidth=30)
+
 <!--- ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&logoWidth=30) this feature will be coming soon--->
 
 ### 📊 Data Analyse
