@@ -3,7 +3,7 @@
 
 👋 Hi, I’m @Newguinea<br>
 👀 I’m interested in Front End Development, Destop Application Development and Front End Data Visualization.<br>
-🌱 I’m currently learning GIS, Javascript, React, flask<br>
+🌱 I’m currently learning GIS, Javascript, React, flask, Django<br>
 💞️ I’m looking to collaborate on font-end and back-end<br>
 📫 Reach me @linkedin @[Andrew_Zhu](https://www.linkedin.com/in/andrew-jhu/)<br>
 📫 Reach me @instagram @[khanhamburger](https://www.instagram.com/khanhamburger/)<br>
