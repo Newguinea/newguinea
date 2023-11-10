@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&logoWidth=30)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&logoWidth=30)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=61DAFB&logoWidth=30)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&logoWidth=30)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&logoWidth=30)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white&logoWidth=30)
